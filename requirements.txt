@@ -1,6 +1,6 @@
 jupyter
 tensorflow
 pytorch
-gym
 pandas
 sklearn
+jupyterlab
